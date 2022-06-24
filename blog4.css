@@ -1,0 +1,39 @@
+h1{
+	text-align: center;
+	color: #240904;
+	font-family: sans-serif;
+}
+h2{
+	text-align: left;
+	color: #240904;
+}
+hr{
+	color:#240904;
+
+}
+body{
+	color:#240904 ;
+	padding: 50px;
+	padding-top: 30px;
+	border: 0;
+	font-size: 2em;
+	border-radius: 10px;
+	background-color: #f6e1d2;
+}
+.left{ 
+      float: left;
+      width: 200px;
+      height: 250px;
+      border: 10px;
+      margin-bottom: 10px;
+      margin-right: 10px;
+      border-color: grey;
+ }
+ .center{
+ 	     float: center;
+ 	     width: 200px;
+ 	     height: 250px;
+ 	     border: 10px;
+ 	     border-color: white;
+ }
+ 
