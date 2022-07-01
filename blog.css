@@ -1,0 +1,166 @@
+.header {
+    background-image: url('file:///C:/Users/user/Downloads/life%20style.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+h1{
+	text-align: right;
+	font-family: courier;
+	color: #240904;
+}
+h2{
+  text-align: center;
+  color: #240904;
+}
+
+body{
+	background-color:#b8b2af ;
+	padding: 50px;
+  padding-top: 30px;
+  border: 0;
+  border-radius: 10px;
+  color: #240904;
+}
+.center{
+	 float: center;
+       width: 300px;
+       height: 350px;
+       border: 10px;
+       border-color: white;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+}
+}
+.navbar {
+    background:#240904;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.features {
+  margin: 4em auto;
+  padding: 1em;
+  position: relative;
+}
+.feature-title {
+  color: #333;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+a:link {
+  color: #240904;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #240904;
+  color: #240904;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #240904;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #240904;
+  background-color: transparent;
+  text-decoration: underline;
+};
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #240904;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.middle{ text-align: center; }
+#demo-modal .modal-content {
+    border-radius: 0;
+    padding: 2rem;
+}
+#demo-modal .modal-header {
+    border-bottom: none;
+}
+#demo-modal h4 {
+    color: #000;
+    font-size: 30px;
+    margin: 0 0 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+#demo-modal .close {
+    background: #c0c3c8;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 19px;
+    font-weight: normal;
+    height: 30px;
+    opacity: 0.5;
+    padding: 0;
+    position: absolute;
+    right: 26px;
+    text-align: center;
+    top: 26px;
+    width: 30px;
+}
+#demo-modal .close span {
+    position: relative;
+    top: -3px;
+}
+#demo-modal .modal-body p {
+    color: #999;
+}
+#demo-modal .form-control,
+#demo-modal .btn {
+    min-height: 46px;
+}
+#demo-modal .btn {
+    background-color: #1da098;
+    border: none;
+    color: #fff;
+    min-width: 150px;
+    transition: all 0.4s;
+}
+#demo-modal .btn:hover,
+#demo-modal .btn:focus {
+    background-color: #12968d;
+}
+.page-footer {
+    background-color: #241915;
+    color: #b8b2af;
+    padding: 60px 0 30px;
+    text-align: center;
+}
+.footer-copyright text-center {
+    color: #666;
+    padding: 40px 0; 
+    text-align: center;
+
+}
